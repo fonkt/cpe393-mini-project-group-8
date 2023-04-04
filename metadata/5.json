@@ -1,0 +1,19 @@
+{
+  "name": "Capybara #5",
+  "description": "The capybara or greater capybara (Hydrochoerus hydrochaeris) is a giant cavy rodent native to South America.",
+  "image": "ipfs://QmdeoAFDCFzWuAeaTZ9VkErTKGnQLa6RqgnYU2zLpR7qJs",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "lightblue"
+    },
+    {
+      "trait_type": "body",
+      "value": "purple"
+    },
+    {
+      "trait_type": "rare",
+      "value": "legendary"
+    }
+  ]
+}
