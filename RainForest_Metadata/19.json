@@ -1,0 +1,23 @@
+{
+    "name": "RainForest #19",
+    "description": "A drawing of my sister with her new hair clip.",
+    "image": "ipfs://QmajZTKYea4ANeBShfZNdKvfK3k5wyDEsA76is6KBQH4sX",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Hair clip"
+      }
+    ]
+  }

@@ -1,0 +1,23 @@
+{
+    "name": "RainForest #6",
+    "description": "A drawing of Korean idol 'Taeyeon' from Girls' Generation Girl Group that she posted on Instagram which focuses on the dog in  her bag.",
+    "image": "ipfs://QmYkJY2h3GGbBNo6ghhCbPbLAgndt7XMQFDbL7Aryuxg1h",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Sky"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "White"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Dog"
+      }
+    ]
+  }

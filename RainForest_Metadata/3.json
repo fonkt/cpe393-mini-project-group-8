@@ -1,0 +1,23 @@
+{
+    "name": "RainForest #3",
+    "description": "A drawing of a close friend who kicks a ball into the goal and scores for the school sports team.",
+    "image": "ipfs://QmedQT29hkamBT9JssqQh9TP7bB2E3ScRadzCidkQgRxgw",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "White"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Ball"
+      }
+    ]
+  }

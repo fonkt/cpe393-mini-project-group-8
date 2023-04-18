@@ -1,0 +1,23 @@
+{
+    "name": "RainForest #15",
+    "description": "A drawing of my close friend when she was smelling a flower in the garden.",
+    "image": "ipfs://QmQT1S2Md5diLb6J7opyGgk6LKwztHqctmjH3nDk2uMvPV",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Flower"
+      }
+    ]
+  }

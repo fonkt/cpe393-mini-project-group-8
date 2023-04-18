@@ -1,0 +1,23 @@
+{
+    "name": "RainForest #20",
+    "description": "A drawing of my sister when she was taking Y2K style photos in front of a mirror.",
+    "image": "ipfs://Qmb7boZbJZ2GcEaywgLj9zbxEYD8DBUEBApkThJhQLCtJ1",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Phone"
+      }
+    ]
+  }

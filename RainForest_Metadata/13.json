@@ -1,0 +1,23 @@
+{
+    "name": "RainForest #13",
+    "description": "A drawing of Korean idol 'Jaehyun' from NCT Group that he posted on Instagram.",
+    "image": "ipfs://QmbKXoKnhfbgP1TMyy8yTwdCGeJwmBfspuoxNEYYS2d3sx",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Grey&Sky"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Hat"
+      }
+    ]
+  }

@@ -1,0 +1,23 @@
+{
+    "name": "RainForest #16",
+    "description": "A drawing of my close friend when she was drinking pineapple juice in a cafe.",
+    "image": "ipfs://QmSLxd7Fm7cfMWZzNQRwodsdJXWzkUGpu6qznnn5ZwvSmY",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Sky"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Glass"
+      }
+    ]
+  }

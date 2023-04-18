@@ -1,0 +1,23 @@
+{
+    "name": "RainForest #1",
+    "description": "A drawing of my girlfriend when she shy under a mask worn on a first date.",
+    "image": "ipfs://QmcYJYYDCXKnPZJHWSjbeEZTYC4drvi4YRc2Cd9JPnDECv",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Mask"
+      }
+    ]
+  }

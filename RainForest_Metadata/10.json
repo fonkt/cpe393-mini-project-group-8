@@ -1,0 +1,23 @@
+{
+    "name": "RainForest #10",
+    "description": "A drawing of myself when I was in high school.",
+    "image": "ipfs://Qme4YsivpuZM1QBAWno9hmpURLHXmgt8u7fSFFrVhBFVZt",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "light pink"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "White"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Bow"
+      }
+    ]
+  }

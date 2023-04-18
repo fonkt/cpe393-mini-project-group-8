@@ -1,0 +1,23 @@
+{
+    "name": "RainForest #7",
+    "description": "A drawing of the heroine in Korea series when she was embarrassed by the male protagonist.",
+    "image": "ipfs://QmSE9SQQ4HTodPwZM28dWV7XjVv6ZSrLaudqXMErz7khdn",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Heart"
+      }
+    ]
+  }

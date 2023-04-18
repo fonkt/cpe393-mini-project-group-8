@@ -1,0 +1,23 @@
+{
+    "name": "RainForest #8",
+    "description": "A drawing of my close friend when she let me take her photos in concert.",
+    "image": "ipfs://QmcrdE4DG54j6ak3aMNztcsp9SoQeueiBVN4PBtGX8Q9y7",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Bag"
+      }
+    ]
+  }

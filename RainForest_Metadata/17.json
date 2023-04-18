@@ -1,0 +1,23 @@
+{
+    "name": "RainForest #17",
+    "description": "A drawing of my close friend when he pretend to take a picture.",
+    "image": "ipfs://QmbrKDGuM9KwQhXyz4NNtRwD36D2D79ufDn5drHZBSpYof",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Bag"
+      }
+    ]
+  }

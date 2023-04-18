@@ -1,0 +1,23 @@
+{
+    "name": "RainForest #4",
+    "description": "A drawing of my close friend sitting in a chair and playing his phone.",
+    "image": "ipfs://QmfAMzDQkWvzvtBHV5SaiKcLEf38hPJhxCwWH6y4DG5UoK",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Phone"
+      }
+    ]
+  }

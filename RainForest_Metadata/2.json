@@ -1,0 +1,23 @@
+{
+    "name": "RainForest #2",
+    "description": "A drawing of Korean idol 'Irene' from Red Velvet Girl Group that she posted on Instagram.",
+    "image": "ipfs://QmehUUiE8odRSXijjsxKVF1XaDZKy37kVU3Z5oGdytbAW9",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "None"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Hat"
+      }
+    ]
+  }

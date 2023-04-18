@@ -1,0 +1,23 @@
+{
+    "name": "RainForest #18",
+    "description": "A drawing of my friend when she went on a trip in the summer at the beach.",
+    "image": "ipfs://QmQc8a43BECAMQ3tV6nZVyy6ZLc3BKjvVzBe6jdYgFR6Za",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Hat"
+      }
+    ]
+  }
