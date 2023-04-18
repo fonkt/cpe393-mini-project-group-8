@@ -1,9 +1,8 @@
 # Mini Project - Group 8
-### [Capybara Collection]
+### [RainForest Collection]
 
 <b>Members</b>
 - 63070505202 - Kanlaya Thanontip
-- 63070501000 - Capy Mother
-- 63070501000 - Capy Member
+- 63070505236 - Natcha Goorojanawong
 
 `CPE393 | Blockchain Technology 2/2022`
